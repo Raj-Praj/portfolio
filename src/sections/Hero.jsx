@@ -64,7 +64,7 @@ const left = getLeftText();
     <FaGithub />
     </a>
 
-    <a href="https://www.linkedin.com/in/raj-praz-57237a40b/" target="_blank">
+    <a href="https://www.linkedin.com/in/raj-prajapati-57237a40b/" target="_blank">
     <FaLinkedin />
     </a>
 
