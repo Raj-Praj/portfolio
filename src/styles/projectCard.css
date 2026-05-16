@@ -1,0 +1,42 @@
+.project-card {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 14px;
+
+  padding: 28px;
+  margin-top: 15px;
+
+  color: rgb(183, 178, 178);;
+
+  transition: 0.3s;
+}
+
+.project-card:hover {
+  transform: translateY(-6px);
+  background: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.project-card h3 {
+  margin-bottom: 10px;
+  color: rgb(183, 178, 178);;
+}
+
+.project-card p {
+  font-size: 14px;
+  color: rgb(183, 178, 178);;
+}
+
+.tech {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.tech span {
+  font-size: 12px;
+  padding: 4px 8px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 6px;
+}

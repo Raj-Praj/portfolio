@@ -1,0 +1,15 @@
+.page-content {
+  color: white;
+  max-width: 400px;
+}
+
+.page-content h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.page-content p {
+  font-size: 18px;
+  color: #ccc;
+  line-height: 1.6;
+}
